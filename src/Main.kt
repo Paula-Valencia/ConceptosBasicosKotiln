@@ -1,5 +1,6 @@
+//1. Notificaciones móviles
 fun main() {
-//Ejercicio 1
+
     val morningNotification = 51
     val eveningNotification = 135
     printNotificationSummary(morningNotification)

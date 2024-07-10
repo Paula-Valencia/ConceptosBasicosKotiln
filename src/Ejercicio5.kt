@@ -1,4 +1,4 @@
-//Ejercicio 5
+//5. Teléfonos plegables
 open class Phone(var isScreenLightOn: Boolean = false) {
     // Método para encender la pantalla
     open fun switchOn() {

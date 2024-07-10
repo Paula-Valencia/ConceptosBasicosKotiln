@@ -1,4 +1,4 @@
-//EJERCICIO 3
+//3. Conversor de temperatura
 fun main() {
         printFinalTemperature(27.0, "Celsius", "Fahrenheit") { c -> (9.0/5.0) * c + 32 }
         printFinalTemperature(350.0, "Kelvin", "Celsius") { k -> k - 273.15 }

@@ -1,4 +1,4 @@
-//Ejercicio 6
+//6. Subasta especial
 
 fun main() {
     val winningBid = Bid(5000, "Private Collector")
